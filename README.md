@@ -4,10 +4,10 @@ then perform a simple Dunham analysis on it.
 
 ### Dependencies
 
--Python 3.5 or higher
--Numpy
--texttable
--matplotlib
+- Python 3.5 or higher
+- Numpy
+- texttable
+- matplotlib
 
 ## Running the script
 The input is simply a tab-delimited text file of data, which must include a header row with column names.
